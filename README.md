@@ -1,5 +1,5 @@
 # portfolio
-My personal portfolio
+James OConnors portfolio
 
-## Testing first commit 
-Way to go 
+## Serverless portfolio
+This portfolio is 100% serverless
