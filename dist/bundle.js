@@ -7653,6 +7653,7 @@ if (true) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ExampleWorkBubble", function() { return ExampleWorkBubble; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 
@@ -7692,6 +7693,7 @@ class ExampleWorkBubble extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Com
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (ExampleWork);
+
 
 /***/ })
 /******/ ]);
