@@ -3,8 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo First build
-      - node -v
+      - echo Generating artifacts
 
 artifacts:
   files:
